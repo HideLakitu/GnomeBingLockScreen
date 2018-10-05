@@ -1,5 +1,5 @@
 <h1 align="center">
-  GnomeBingLockScreen
+  Gnome Bing锁屏
 </h1>
 
 [English](https://github.com/zhangzp9970/GnomeBingLockScreen/blob/master/README.md) | [中文](https://github.com/zhangzp9970/GnomeBingLockScreen/blob/master/README-zh-cn.md)
