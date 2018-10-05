@@ -4,18 +4,18 @@
 
 [English](https://github.com/zhangzp9970/GnomeBingLockScreen/blob/master/README.md) | [中文](https://github.com/zhangzp9970/GnomeBingLockScreen/blob/master/README-zh-cn.md)
 
-> Small python script to set the Bing Image of the Day as your GNOME lock screen 
+> 一个将必应美图设置为GNOME锁屏壁纸的小python脚本 
 
-## Have you ever been tired of the same lock screen all the day?
-## Have you ever dreamed of a Windows Spotlight lock screen on your GNOME desktop?
-## That's why this project has been started.
+## 你有没有对GNOME每天相同的锁屏壁纸感到厌烦？
+## 你有没有希望有一个类似于Windows Spotlight的锁屏壁纸在你的GNOME桌面上？
+## 这个项目正是起源于这样的想法。
 
-## Features
-* change your GNOME lock screen pictures daily with Bing Image of the day
-* the pictures are stored at ~/Pictures/Bing/
+## 特点
+* 每天通过必应美图更新GNOME锁屏
+* 下载到的图片被放在 ~/Pictures/Bing/ 目录下
   
-## Usage
-clone this repo and add python3 bing_screen_saver.py to start up applications
+## 使用方法
+克隆这个仓库然后在启动文件里添加 python3 bing_screen_saver.py 
 
 ## License
 GNU General Public License v3
