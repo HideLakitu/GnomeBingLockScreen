@@ -7,7 +7,7 @@
 > Small python script to set the Bing Image of the Day as your GNOME lock screen 
 
 ## Have you ever been tired of the same lock screen all the day?
-## Have you ever dreamed of a Windows Spotlight lock screen on your GNOME desktop?
+## Have you ever dreamed of having a Windows Spotlight lock screen on your GNOME desktop?
 ## That's why this project has been started.
 
 ## Features
@@ -17,6 +17,8 @@
 ## Usage
 clone this repo and add python3 bing_screen_saver.py to start up applications
 
+## Screenshot
+![lock](/img/Screenshot from 2018-10-06 13-28-48.png)
 ## License
 GNU General Public License v3
 
