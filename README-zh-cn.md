@@ -17,6 +17,8 @@
 ## 使用方法
 克隆这个仓库然后在启动文件里添加 python3 bing_screen_saver.py 
 
+## 屏幕截图
+![lock](/img/Screenshot.png)
 ## License
 GNU General Public License v3
 

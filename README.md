@@ -18,7 +18,7 @@
 clone this repo and add python3 bing_screen_saver.py to start up applications
 
 ## Screenshot
-![lock](/img/Screenshot from 2018-10-06 13-28-48.png)
+![lock](/img/Screenshot.png)
 ## License
 GNU General Public License v3
 
