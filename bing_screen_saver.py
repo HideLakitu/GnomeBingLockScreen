@@ -26,12 +26,16 @@ import os
 import urllib.request
 import datetime
 date=datetime.datetime.now().strftime('%Y-%m-%d')
+day_s=datetime.datetime.now()-datetime.timedelta(days = 7)
+day=day_s.strftime('%Y-%m-%d')
 json_url="https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US"
 bing_url="https://www.bing.com"
 HOME=os.path.expandvars('$HOME')+"/"
 json_file=HOME+".bing.json"
 directory=HOME+"Pictures/Bing"
 picture=directory+"/"+date+".jpg"
+picture_del=directory+"/"+day+".jpg"
+delete_old_picture = True
 if not os.path.exists(directory):
 	os.makedirs(directory)
 if not os.path.exists(picture):
@@ -47,3 +51,6 @@ if not os.path.exists(picture):
 	#change screen saver
 	cmd="gsettings set org.gnome.desktop.screensaver picture-uri file:"+picture
 	os.system(cmd)
+	if os.path.exists(picture_del):
+		if delete_old_picture == True:
+			os.remove(picture_del)
