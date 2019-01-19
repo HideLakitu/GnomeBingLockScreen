@@ -9,6 +9,7 @@
 ## Have you ever been tired of the same lock screen all the day?
 ## Have you ever dreamed of having a Windows Spotlight lock screen on your GNOME desktop?
 ## That's why this project has been started.
+## There already exists a similar and better project https://github.com/neffo/bing-wallpaper-gnome-extension but it's a great practice for me to make my own　using python. So, I insist on making this project better.
 
 ## Features
 * change your GNOME lock screen pictures daily with Bing Image of the day
