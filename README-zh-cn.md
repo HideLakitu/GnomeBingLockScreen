@@ -13,6 +13,7 @@
 ## 特点
 * 每天通过必应美图更新GNOME锁屏
 * 下载到的图片被放在 ~/Pictures/Bing/ 目录下
+* 删除超过７天的图片
   
 ## 使用方法
 克隆这个仓库然后在启动文件里添加 python3 bing_screen_saver.py 
