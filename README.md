@@ -14,7 +14,12 @@
 ## Features
 * change your GNOME lock screen pictures daily with Bing Image of the day
 * the pictures are stored at ~/Pictures/Bing/
-* delete pictures more than 7 days 
+* delete pictures more than 7 days (to be improved)
+  
+## Todo
+* add a configure profile
+* add a GUI for configure
+* add proxy support
   
 ## Usage
 clone this repo and add python3 bing_screen_saver.py to start up applications
