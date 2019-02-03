@@ -42,7 +42,7 @@ if not os.path.exists(picture):
 	#get the json file and hide the file
 	urllib.request.urlretrieve(json_url,json_file)
 	#open the file and import json string
-	with open(json_file,"rb") as f:
+	with open(json_file,"r",encoding='utf-8') as f:
 		bing_json=json.load(f)
 	url_append=bing_json['images'][0]['url']
 	url=bing_url+url_append
