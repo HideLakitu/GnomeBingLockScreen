@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 ###########################################################################
 ##                                                                       ##
 ## GnomeBingLockScreen                                                   ##
@@ -20,8 +22,6 @@
 ##          Author: 张泽平 (Randy Hoffman)                                ##
 ## Website/Contact: https://github.com/zhangzp9970/                      ##
 ###########################################################################
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 import json
 import os
 import urllib.request
