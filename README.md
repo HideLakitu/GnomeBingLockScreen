@@ -32,7 +32,7 @@ clone this repo and add python3 bing_screen_saver.py to start up applications
 ## License
 GNU General Public License v3
 
-Copyright (C) 2018 by 张泽平 <zhang9zp970@gmail.com>
+Copyright (C) 2018 by 张泽平 <zhangzp9970@outlook.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
