@@ -19,8 +19,9 @@
   
 ## Todo
 * add a GUI for configure
-* add proxy support
 * add requirements
+* using Qt or other approaches to realize, or remove the python dependency
+* try to find linux api instead of calling gsetting command
 * make a pip package
 * add systemd service file
   
